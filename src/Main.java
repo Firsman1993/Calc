@@ -27,6 +27,6 @@ public class Main {
             default:
                 System.out.println("Операция не поддерживается");
         }
-        System.out.println(result);
+        System.out.println("Результат: " + result);
     }
 }
